@@ -3,17 +3,17 @@
         {
             "id": 1,
             "image": "https://george-fx.github.io/manero/assets/carousel/01.png",
-            "promotion": "Welcome To StepHub! 50% Off"
+            "promotion": "50% off"
         },
         {
             "id": 2,
             "image": "https://george-fx.github.io/manero/assets/carousel/01.png",
-            "promotion": "Welcome To StepHub! 50% Off"
+            "promotion": "50% off"
         },
         {
             "id": 3,
             "image": "https://george-fx.github.io/manero/assets/carousel/01.png",
-            "promotion": "Welcome To StepHub! 50% Off"
+            "promotion": "50% off"
         }
     ]
 }
