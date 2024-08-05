@@ -1,0 +1,25 @@
+{
+    "promocodes": [
+        {
+            "id": 1,
+            "code": "Pedal Pulse Cycles",
+            "image": "https://george-fx.github.io/stephub/assets/promocodes/01.jpg",
+            "discount": 50,
+            "expiry": "Jan 24, 2025"
+        },
+        {
+            "id": 2,
+            "code": "Velocity Vibes Bikes",
+            "image": "https://george-fx.github.io/stephub/assets/promocodes/02.jpg",
+            "discount": 30,
+            "expiry": "Dec 27, 2024"
+        },
+        {
+            "id": 3,
+            "code": "Spoke & Wheel",
+            "image": "https://george-fx.github.io/stephub/assets/promocodes/03.jpg",
+            "discount": 15,
+            "expiry": "Nov 22, 2024"
+        }
+    ]
+}
