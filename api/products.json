@@ -1,158 +1,277 @@
 {
-    "products": [
-      {
-        "id": "1",
-        "name": "Black Sneakers",
-        "price": 120.0,
-        "description": "Sunt id et eaque iure quae. Voluptates quia qui sint quia sit ab. Quasi suscipit autem eveniet dicta amet error corrupti sit.",
-        "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
-        "colors": ["carrot", "blue", "beige", "purple", "black"],
-        "categories": ["Men"],
-        "rating": "5",
-        "images": [
-          "https://george-fx.github.io/manero/resources/products/01.png",
-          "https://george-fx.github.io/manero/resources/products/01.png",
-          "https://george-fx.github.io/manero/resources/products/01.png"
-        ],
-        "is_bestseller": true,
-        "is_sale": false,
-        "is_featured": false,
-      },
-      {
-        "id": "2",
-        "name": "Denim Shorts",
-        "price": 54.96,
-        "oldPrice": 76,
-        "description": "Sunt id et eaque iure quae. Voluptates quia qui sint quia sit ab. Quasi suscipit autem eveniet dicta amet error corrupti sit.",
-        "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
-        "colors": ["carrot", "blue", "beige", "purple", "black"],
-        "categories": ["Sport"],
-        "rating": "5",
-        "images": [
-          "https://george-fx.github.io/manero/resources/products/02.png",
-          "https://george-fx.github.io/manero/resources/products/02.png",
-          "https://george-fx.github.io/manero/resources/products/02.png"
-        ],
-        "is_bestseller": false,
-        "is_sale": true,
-        "is_featured": true,
-      },
-      {
-        "id": "3",
-        "name": "Hand Bag",
-        "price": 24.95,
-        "oldPrice": 76,
-        "description": "Sunt id et eaque iure quae. Voluptates quia qui sint quia sit ab. Quasi suscipit autem eveniet dicta amet error corrupti sit.",
-        "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
-        "colors": ["carrot", "blue", "beige", "purple", "black"],
-        "categories": ["Sport"],
-        "rating": "5",
-        "image": "https://dl.dropbox.com/s/252twzwl5hv96mi/03.png?dl=0",
-        "images": [
-          "https://george-fx.github.io/manero/resources/products/03.png",
-          "https://george-fx.github.io/manero/resources/products/03.png",
-          "https://george-fx.github.io/manero/resources/products/03.png"
-        ],
-        "is_bestseller": true,
-        "is_sale": true,
-        "is_featured": false,
-      },
-      {
-        "id": "4",
-        "name": "Purple Sneakers",
-        "price": 22.87,
-        "description": "Sunt id et eaque iure quae. Voluptates quia qui sint quia sit ab. Quasi suscipit autem eveniet dicta amet error corrupti sit.",
-        "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
-        "colors": ["carrot", "blue", "beige", "purple", "black"],
-        "categories": ["Sport"],
-        "rating": "5",
-        "image": "https://dl.dropbox.com/s/1jv4suu79ax10bs/04.png?dl=0",
-        "images": [
-          "https://george-fx.github.io/manero/resources/products/04.png",
-          "https://george-fx.github.io/manero/resources/products/04.png",
-          "https://george-fx.github.io/manero/resources/products/04.png"
-        ],
-        "is_bestseller": false,
-        "is_sale": false,
-        "is_featured": true,
-      },
-      {
-        "id": "5",
-        "name": "Summer Dress",
-        "price": 44.65,
-        "oldPrice": 90,
-        "description": "Sunt id et eaque iure quae. Voluptates quia qui sint quia sit ab. Quasi suscipit autem eveniet dicta amet error corrupti sit.",
-        "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
-        "colors": ["carrot", "blue", "beige", "purple", "black"],
-        "categories": ["Sport"],
-        "rating": "5",
-        "image": "https://dl.dropbox.com/s/r4lhjbptsgr14jr/05.png?dl=0",
-        "images": [
-          "https://george-fx.github.io/manero/resources/products/05.png",
-          "https://george-fx.github.io/manero/resources/products/05.png",
-          "https://george-fx.github.io/manero/resources/products/05.png"
-        ],
-        "is_bestseller": true,
-        "is_sale": true,
-        "is_featured": false,
-      },
-      {
-        "id": "6",
-        "name": "Summer Dress",
-        "price": 42.89,
-        "description": "Sunt id et eaque iure quae. Voluptates quia qui sint quia sit ab. Quasi suscipit autem eveniet dicta amet error corrupti sit.",
-        "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
-        "colors": ["carrot", "blue", "beige", "purple", "black"],
-        "categories": ["Sport"],
-        "rating": "5",
-        "image": "https://dl.dropbox.com/s/w4p70q0h4780ljl/06.png?dl=0",
-        "images": [
-          "https://george-fx.github.io/manero/resources/products/06.png",
-          "https://george-fx.github.io/manero/resources/products/06.png",
-          "https://george-fx.github.io/manero/resources/products/06.png"
-        ],
-        "is_bestseller": false,
-        "is_sale": false,
-        "is_featured": true,
-      },
-      {
-        "id": "7",
-        "name": "T-Shirt",
-        "price": 12.95,
-        "description": "Sunt id et eaque iure quae. Voluptates quia qui sint quia sit ab. Quasi suscipit autem eveniet dicta amet error corrupti sit.",
-        "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
-        "colors": ["carrot", "blue", "beige", "purple", "black"],
-        "categories": ["Sport"],
-        "rating": "5",
-        "image": "https://dl.dropbox.com/s/pa7egeq106uku51/07.png?dl=0",
-        "images": [
-          "https://george-fx.github.io/manero/resources/products/07.png",
-          "https://george-fx.github.io/manero/resources/products/07.png",
-          "https://george-fx.github.io/manero/resources/products/07.png"
-        ],
-        "is_bestseller": true,
-        "is_sale": false,
-        "is_featured": false,
-      },
-      {
-        "id": "8",
-        "name": "Warm Hat",
-        "price": 6.93,
-        "description": "Sunt id et eaque iure quae. Voluptates quia qui sint quia sit ab. Quasi suscipit autem eveniet dicta amet error corrupti sit.",
-        "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
-        "colors": ["carrot", "blue", "beige", "purple", "black"],
-        "categories": ["Sport"],
-        "rating": "5",
-        "image": "https://dl.dropbox.com/s/vvzqi4ufun5ino1/08.png?dl=0",
-        "images": [
-          "https://george-fx.github.io/manero/resources/products/08.png",
-          "https://george-fx.github.io/manero/resources/products/08.png",
-          "https://george-fx.github.io/manero/resources/products/08.png"
-        ],
-        "is_bestseller": false,
-        "is_sale": false,
-        "is_featured": true,
-      }
-    ],
-  }
-  
+  "products": [
+    {
+      "id": "1",
+      "name": "Black Sneakers",
+      "price": 120.0,
+      "description": "Sunt id et eaque iure quae. Voluptates quia qui sint quia sit ab. Quasi suscipit autem eveniet dicta amet error corrupti sit.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        "carrot",
+        "blue",
+        "beige",
+        "purple",
+        "black"
+      ],
+      "categories": [
+        "Men"
+      ],
+      "rating": "5",
+      "images": [
+        "https://george-fx.github.io/manero/resources/products/01.png",
+        "https://george-fx.github.io/manero/resources/products/01.png",
+        "https://george-fx.github.io/manero/resources/products/01.png"
+      ],
+      "is_bestseller": true,
+      "is_sale": false,
+      "is_featured": false
+    },
+    {
+      "id": "2",
+      "name": "Denim Shorts",
+      "price": 54.96,
+      "oldPrice": 76,
+      "description": "Sunt id et eaque iure quae. Voluptates quia qui sint quia sit ab. Quasi suscipit autem eveniet dicta amet error corrupti sit.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        "carrot",
+        "blue",
+        "beige",
+        "purple",
+        "black"
+      ],
+      "categories": [
+        "Sport"
+      ],
+      "rating": "5",
+      "images": [
+        "https://george-fx.github.io/manero/resources/products/02.png",
+        "https://george-fx.github.io/manero/resources/products/02.png",
+        "https://george-fx.github.io/manero/resources/products/02.png"
+      ],
+      "is_bestseller": false,
+      "is_sale": true,
+      "is_featured": true
+    },
+    {
+      "id": "3",
+      "name": "Hand Bag",
+      "price": 24.95,
+      "oldPrice": 76,
+      "description": "Sunt id et eaque iure quae. Voluptates quia qui sint quia sit ab. Quasi suscipit autem eveniet dicta amet error corrupti sit.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        "carrot",
+        "blue",
+        "beige",
+        "purple",
+        "black"
+      ],
+      "categories": [
+        "Sport"
+      ],
+      "rating": "5",
+      "image": "https://dl.dropbox.com/s/252twzwl5hv96mi/03.png?dl=0",
+      "images": [
+        "https://george-fx.github.io/manero/resources/products/03.png",
+        "https://george-fx.github.io/manero/resources/products/03.png",
+        "https://george-fx.github.io/manero/resources/products/03.png"
+      ],
+      "is_bestseller": true,
+      "is_sale": true,
+      "is_featured": false
+    },
+    {
+      "id": "4",
+      "name": "Purple Sneakers",
+      "price": 22.87,
+      "description": "Sunt id et eaque iure quae. Voluptates quia qui sint quia sit ab. Quasi suscipit autem eveniet dicta amet error corrupti sit.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        "carrot",
+        "blue",
+        "beige",
+        "purple",
+        "black"
+      ],
+      "categories": [
+        "Sport"
+      ],
+      "rating": "5",
+      "image": "https://dl.dropbox.com/s/1jv4suu79ax10bs/04.png?dl=0",
+      "images": [
+        "https://george-fx.github.io/manero/resources/products/04.png",
+        "https://george-fx.github.io/manero/resources/products/04.png",
+        "https://george-fx.github.io/manero/resources/products/04.png"
+      ],
+      "is_bestseller": false,
+      "is_sale": false,
+      "is_featured": true
+    },
+    {
+      "id": "5",
+      "name": "Summer Dress",
+      "price": 44.65,
+      "oldPrice": 90,
+      "description": "Sunt id et eaque iure quae. Voluptates quia qui sint quia sit ab. Quasi suscipit autem eveniet dicta amet error corrupti sit.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        "carrot",
+        "blue",
+        "beige",
+        "purple",
+        "black"
+      ],
+      "categories": [
+        "Sport"
+      ],
+      "rating": "5",
+      "image": "https://dl.dropbox.com/s/r4lhjbptsgr14jr/05.png?dl=0",
+      "images": [
+        "https://george-fx.github.io/manero/resources/products/05.png",
+        "https://george-fx.github.io/manero/resources/products/05.png",
+        "https://george-fx.github.io/manero/resources/products/05.png"
+      ],
+      "is_bestseller": true,
+      "is_sale": true,
+      "is_featured": false
+    },
+    {
+      "id": "6",
+      "name": "Summer Dress",
+      "price": 42.89,
+      "description": "Sunt id et eaque iure quae. Voluptates quia qui sint quia sit ab. Quasi suscipit autem eveniet dicta amet error corrupti sit.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        "carrot",
+        "blue",
+        "beige",
+        "purple",
+        "black"
+      ],
+      "categories": [
+        "Sport"
+      ],
+      "rating": "5",
+      "image": "https://dl.dropbox.com/s/w4p70q0h4780ljl/06.png?dl=0",
+      "images": [
+        "https://george-fx.github.io/manero/resources/products/06.png",
+        "https://george-fx.github.io/manero/resources/products/06.png",
+        "https://george-fx.github.io/manero/resources/products/06.png"
+      ],
+      "is_bestseller": false,
+      "is_sale": false,
+      "is_featured": true
+    },
+    {
+      "id": "7",
+      "name": "T-Shirt",
+      "price": 12.95,
+      "description": "Sunt id et eaque iure quae. Voluptates quia qui sint quia sit ab. Quasi suscipit autem eveniet dicta amet error corrupti sit.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        "carrot",
+        "blue",
+        "beige",
+        "purple",
+        "black"
+      ],
+      "categories": [
+        "Sport"
+      ],
+      "rating": "5",
+      "image": "https://dl.dropbox.com/s/pa7egeq106uku51/07.png?dl=0",
+      "images": [
+        "https://george-fx.github.io/manero/resources/products/07.png",
+        "https://george-fx.github.io/manero/resources/products/07.png",
+        "https://george-fx.github.io/manero/resources/products/07.png"
+      ],
+      "is_bestseller": true,
+      "is_sale": false,
+      "is_featured": false
+    },
+    {
+      "id": "8",
+      "name": "Warm Hat",
+      "price": 6.93,
+      "description": "Sunt id et eaque iure quae. Voluptates quia qui sint quia sit ab. Quasi suscipit autem eveniet dicta amet error corrupti sit.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        "carrot",
+        "blue",
+        "beige",
+        "purple",
+        "black"
+      ],
+      "categories": [
+        "Sport"
+      ],
+      "rating": "5",
+      "image": "https://dl.dropbox.com/s/vvzqi4ufun5ino1/08.png?dl=0",
+      "images": [
+        "https://george-fx.github.io/manero/resources/products/08.png",
+        "https://george-fx.github.io/manero/resources/products/08.png",
+        "https://george-fx.github.io/manero/resources/products/08.png"
+      ],
+      "is_bestseller": false,
+      "is_sale": false,
+      "is_featured": true
+    }
+  ]
+}
