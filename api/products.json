@@ -17,56 +17,6 @@
         "is_bestseller": true,
         "is_sale": false,
         "is_featured": false,
-        "reviews": [
-          {
-            "id": 1,
-            "name": "Cameron Williamson",
-            "image": "https://george-fx.github.io/manero/assets/users/01.jpg",
-            "comment": "Vel provident distinctio consequatur. Totam aut enim ea eligendi maxime. Quia perspiciatis in quia expedita beatae. Cupiditate provident tempore illum sunt sint ea. Enim quisquam in cum quibusdam.",
-            "rating": 3,
-            "created_at": "2022-08-20"
-          },
-          {
-            "id": 2,
-            "name": "Theresa Webb",
-            "image": "https://george-fx.github.io/manero/assets/users/02.jpg",
-            "comment": "Aliquam laboriosam voluptates et dignissimos veritatis. Ut aut distinctio ipsam ea voluptatem. Sunt omnis id qui laudantium dolor et. Aut temporibus minus consectetur qui dolores architecto dicta.",
-            "rating": 3,
-            "created_at": "2022-08-20"
-          },
-          {
-            "id": 3,
-            "name": "Marvin McKinney",
-            "image": "https://george-fx.github.io/manero/assets/users/03.jpg",
-            "comment": "Et illum omnis est totam asperiores aliquid et. Ipsum unde labore quibusdam. Nesciunt facilis fugiat aut sapiente expedita perspiciatis. Corrupti ex eum id voluptatem est libero.",
-            "rating": 3,
-            "created_at": "2022-08-20"
-          },
-          {
-            "id": 4,
-            "name": "Jacob Jones",
-            "image": "https://george-fx.github.io/manero/assets/users/04.jpg",
-            "comment": "Et illum omnis est totam asperiores aliquid et. Ipsum unde labore quibusdam. Nesciunt facilis fugiat aut sapiente expedita perspiciatis. Corrupti ex eum id voluptatem est libero.",
-            "rating": 3,
-            "created_at": "2022-08-20"
-          },
-          {
-            "id": 5,
-            "name": "Annette Black",
-            "image": "https://george-fx.github.io/manero/assets/users/05.jpg",
-            "comment": "Et illum omnis est totam asperiores aliquid et. Ipsum unde labore quibusdam. Nesciunt facilis fugiat aut sapiente expedita perspiciatis. Corrupti ex eum id voluptatem est libero.",
-            "rating": 3,
-            "created_at": "2022-08-20"
-          },
-          {
-            "id": 6,
-            "name": "Jenny Wilson",
-            "image": "https://george-fx.github.io/manero/assets/users/06.jpg",
-            "comment": "Et illum omnis est totam asperiores aliquid et. Ipsum unde labore quibusdam. Nesciunt facilis fugiat aut sapiente expedita perspiciatis. Corrupti ex eum id voluptatem est libero.",
-            "rating": 3,
-            "created_at": "2022-08-20"
-          }
-        ]
       },
       {
         "id": "2",
@@ -86,56 +36,6 @@
         "is_bestseller": false,
         "is_sale": true,
         "is_featured": true,
-        "reviews": [
-          {
-            "id": 1,
-            "name": "Cameron Williamson",
-            "image": "https://george-fx.github.io/manero/assets/users/01.jpg",
-            "comment": "Vel provident distinctio consequatur. Totam aut enim ea eligendi maxime. Quia perspiciatis in quia expedita beatae. Cupiditate provident tempore illum sunt sint ea. Enim quisquam in cum quibusdam.",
-            "rating": 3,
-            "created_at": "2022-08-20"
-          },
-          {
-            "id": 2,
-            "name": "Theresa Webb",
-            "image": "https://george-fx.github.io/manero/assets/users/02.jpg",
-            "comment": "Aliquam laboriosam voluptates et dignissimos veritatis. Ut aut distinctio ipsam ea voluptatem. Sunt omnis id qui laudantium dolor et. Aut temporibus minus consectetur qui dolores architecto dicta.",
-            "rating": 3,
-            "created_at": "2022-08-20"
-          },
-          {
-            "id": 3,
-            "name": "Marvin McKinney",
-            "image": "https://george-fx.github.io/manero/assets/users/03.jpg",
-            "comment": "Et illum omnis est totam asperiores aliquid et. Ipsum unde labore quibusdam. Nesciunt facilis fugiat aut sapiente expedita perspiciatis. Corrupti ex eum id voluptatem est libero.",
-            "rating": 3,
-            "created_at": "2022-08-20"
-          },
-          {
-            "id": 4,
-            "name": "Jacob Jones",
-            "image": "https://george-fx.github.io/manero/assets/users/04.jpg",
-            "comment": "Et illum omnis est totam asperiores aliquid et. Ipsum unde labore quibusdam. Nesciunt facilis fugiat aut sapiente expedita perspiciatis. Corrupti ex eum id voluptatem est libero.",
-            "rating": 3,
-            "created_at": "2022-08-20"
-          },
-          {
-            "id": 5,
-            "name": "Annette Black",
-            "image": "https://george-fx.github.io/manero/assets/users/05.jpg",
-            "comment": "Et illum omnis est totam asperiores aliquid et. Ipsum unde labore quibusdam. Nesciunt facilis fugiat aut sapiente expedita perspiciatis. Corrupti ex eum id voluptatem est libero.",
-            "rating": 3,
-            "created_at": "2022-08-20"
-          },
-          {
-            "id": 6,
-            "name": "Jenny Wilson",
-            "image": "https://george-fx.github.io/manero/assets/users/06.jpg",
-            "comment": "Et illum omnis est totam asperiores aliquid et. Ipsum unde labore quibusdam. Nesciunt facilis fugiat aut sapiente expedita perspiciatis. Corrupti ex eum id voluptatem est libero.",
-            "rating": 3,
-            "created_at": "2022-08-20"
-          }
-        ]
       },
       {
         "id": "3",
@@ -156,56 +56,6 @@
         "is_bestseller": true,
         "is_sale": true,
         "is_featured": false,
-        "reviews": [
-          {
-            "id": 1,
-            "name": "Cameron Williamson",
-            "image": "https://george-fx.github.io/manero/assets/users/01.jpg",
-            "comment": "Vel provident distinctio consequatur. Totam aut enim ea eligendi maxime. Quia perspiciatis in quia expedita beatae. Cupiditate provident tempore illum sunt sint ea. Enim quisquam in cum quibusdam.",
-            "rating": 3,
-            "created_at": "2022-08-20"
-          },
-          {
-            "id": 2,
-            "name": "Theresa Webb",
-            "image": "https://george-fx.github.io/manero/assets/users/02.jpg",
-            "comment": "Aliquam laboriosam voluptates et dignissimos veritatis. Ut aut distinctio ipsam ea voluptatem. Sunt omnis id qui laudantium dolor et. Aut temporibus minus consectetur qui dolores architecto dicta.",
-            "rating": 3,
-            "created_at": "2022-08-20"
-          },
-          {
-            "id": 3,
-            "name": "Marvin McKinney",
-            "image": "https://george-fx.github.io/manero/assets/users/03.jpg",
-            "comment": "Et illum omnis est totam asperiores aliquid et. Ipsum unde labore quibusdam. Nesciunt facilis fugiat aut sapiente expedita perspiciatis. Corrupti ex eum id voluptatem est libero.",
-            "rating": 3,
-            "created_at": "2022-08-20"
-          },
-          {
-            "id": 4,
-            "name": "Jacob Jones",
-            "image": "https://george-fx.github.io/manero/assets/users/04.jpg",
-            "comment": "Et illum omnis est totam asperiores aliquid et. Ipsum unde labore quibusdam. Nesciunt facilis fugiat aut sapiente expedita perspiciatis. Corrupti ex eum id voluptatem est libero.",
-            "rating": 3,
-            "created_at": "2022-08-20"
-          },
-          {
-            "id": 5,
-            "name": "Annette Black",
-            "image": "https://george-fx.github.io/manero/assets/users/05.jpg",
-            "comment": "Et illum omnis est totam asperiores aliquid et. Ipsum unde labore quibusdam. Nesciunt facilis fugiat aut sapiente expedita perspiciatis. Corrupti ex eum id voluptatem est libero.",
-            "rating": 3,
-            "created_at": "2022-08-20"
-          },
-          {
-            "id": 6,
-            "name": "Jenny Wilson",
-            "image": "https://george-fx.github.io/manero/assets/users/06.jpg",
-            "comment": "Et illum omnis est totam asperiores aliquid et. Ipsum unde labore quibusdam. Nesciunt facilis fugiat aut sapiente expedita perspiciatis. Corrupti ex eum id voluptatem est libero.",
-            "rating": 3,
-            "created_at": "2022-08-20"
-          }
-        ]
       },
       {
         "id": "4",
@@ -225,56 +75,6 @@
         "is_bestseller": false,
         "is_sale": false,
         "is_featured": true,
-        "reviews": [
-          {
-            "id": 1,
-            "name": "Cameron Williamson",
-            "image": "https://george-fx.github.io/manero/assets/users/01.jpg",
-            "comment": "Vel provident distinctio consequatur. Totam aut enim ea eligendi maxime. Quia perspiciatis in quia expedita beatae. Cupiditate provident tempore illum sunt sint ea. Enim quisquam in cum quibusdam.",
-            "rating": 3,
-            "created_at": "2022-08-20"
-          },
-          {
-            "id": 2,
-            "name": "Theresa Webb",
-            "image": "https://george-fx.github.io/manero/assets/users/02.jpg",
-            "comment": "Aliquam laboriosam voluptates et dignissimos veritatis. Ut aut distinctio ipsam ea voluptatem. Sunt omnis id qui laudantium dolor et. Aut temporibus minus consectetur qui dolores architecto dicta.",
-            "rating": 3,
-            "created_at": "2022-08-20"
-          },
-          {
-            "id": 3,
-            "name": "Marvin McKinney",
-            "image": "https://george-fx.github.io/manero/assets/users/03.jpg",
-            "comment": "Et illum omnis est totam asperiores aliquid et. Ipsum unde labore quibusdam. Nesciunt facilis fugiat aut sapiente expedita perspiciatis. Corrupti ex eum id voluptatem est libero.",
-            "rating": 3,
-            "created_at": "2022-08-20"
-          },
-          {
-            "id": 4,
-            "name": "Jacob Jones",
-            "image": "https://george-fx.github.io/manero/assets/users/04.jpg",
-            "comment": "Et illum omnis est totam asperiores aliquid et. Ipsum unde labore quibusdam. Nesciunt facilis fugiat aut sapiente expedita perspiciatis. Corrupti ex eum id voluptatem est libero.",
-            "rating": 3,
-            "created_at": "2022-08-20"
-          },
-          {
-            "id": 5,
-            "name": "Annette Black",
-            "image": "https://george-fx.github.io/manero/assets/users/05.jpg",
-            "comment": "Et illum omnis est totam asperiores aliquid et. Ipsum unde labore quibusdam. Nesciunt facilis fugiat aut sapiente expedita perspiciatis. Corrupti ex eum id voluptatem est libero.",
-            "rating": 3,
-            "created_at": "2022-08-20"
-          },
-          {
-            "id": 6,
-            "name": "Jenny Wilson",
-            "image": "https://george-fx.github.io/manero/assets/users/06.jpg",
-            "comment": "Et illum omnis est totam asperiores aliquid et. Ipsum unde labore quibusdam. Nesciunt facilis fugiat aut sapiente expedita perspiciatis. Corrupti ex eum id voluptatem est libero.",
-            "rating": 3,
-            "created_at": "2022-08-20"
-          }
-        ]
       },
       {
         "id": "5",
@@ -295,56 +95,6 @@
         "is_bestseller": true,
         "is_sale": true,
         "is_featured": false,
-        "reviews": [
-          {
-            "id": 1,
-            "name": "Cameron Williamson",
-            "image": "https://george-fx.github.io/manero/assets/users/01.jpg",
-            "comment": "Vel provident distinctio consequatur. Totam aut enim ea eligendi maxime. Quia perspiciatis in quia expedita beatae. Cupiditate provident tempore illum sunt sint ea. Enim quisquam in cum quibusdam.",
-            "rating": 3,
-            "created_at": "2022-08-20"
-          },
-          {
-            "id": 2,
-            "name": "Theresa Webb",
-            "image": "https://george-fx.github.io/manero/assets/users/02.jpg",
-            "comment": "Aliquam laboriosam voluptates et dignissimos veritatis. Ut aut distinctio ipsam ea voluptatem. Sunt omnis id qui laudantium dolor et. Aut temporibus minus consectetur qui dolores architecto dicta.",
-            "rating": 3,
-            "created_at": "2022-08-20"
-          },
-          {
-            "id": 3,
-            "name": "Marvin McKinney",
-            "image": "https://george-fx.github.io/manero/assets/users/03.jpg",
-            "comment": "Et illum omnis est totam asperiores aliquid et. Ipsum unde labore quibusdam. Nesciunt facilis fugiat aut sapiente expedita perspiciatis. Corrupti ex eum id voluptatem est libero.",
-            "rating": 3,
-            "created_at": "2022-08-20"
-          },
-          {
-            "id": 4,
-            "name": "Jacob Jones",
-            "image": "https://george-fx.github.io/manero/assets/users/04.jpg",
-            "comment": "Et illum omnis est totam asperiores aliquid et. Ipsum unde labore quibusdam. Nesciunt facilis fugiat aut sapiente expedita perspiciatis. Corrupti ex eum id voluptatem est libero.",
-            "rating": 3,
-            "created_at": "2022-08-20"
-          },
-          {
-            "id": 5,
-            "name": "Annette Black",
-            "image": "https://george-fx.github.io/manero/assets/users/05.jpg",
-            "comment": "Et illum omnis est totam asperiores aliquid et. Ipsum unde labore quibusdam. Nesciunt facilis fugiat aut sapiente expedita perspiciatis. Corrupti ex eum id voluptatem est libero.",
-            "rating": 3,
-            "created_at": "2022-08-20"
-          },
-          {
-            "id": 6,
-            "name": "Jenny Wilson",
-            "image": "https://george-fx.github.io/manero/assets/users/06.jpg",
-            "comment": "Et illum omnis est totam asperiores aliquid et. Ipsum unde labore quibusdam. Nesciunt facilis fugiat aut sapiente expedita perspiciatis. Corrupti ex eum id voluptatem est libero.",
-            "rating": 3,
-            "created_at": "2022-08-20"
-          }
-        ]
       },
       {
         "id": "6",
@@ -364,56 +114,6 @@
         "is_bestseller": false,
         "is_sale": false,
         "is_featured": true,
-        "reviews": [
-          {
-            "id": 1,
-            "name": "Cameron Williamson",
-            "image": "https://george-fx.github.io/manero/assets/users/01.jpg",
-            "comment": "Vel provident distinctio consequatur. Totam aut enim ea eligendi maxime. Quia perspiciatis in quia expedita beatae. Cupiditate provident tempore illum sunt sint ea. Enim quisquam in cum quibusdam.",
-            "rating": 3,
-            "created_at": "2022-08-20"
-          },
-          {
-            "id": 2,
-            "name": "Theresa Webb",
-            "image": "https://george-fx.github.io/manero/assets/users/02.jpg",
-            "comment": "Aliquam laboriosam voluptates et dignissimos veritatis. Ut aut distinctio ipsam ea voluptatem. Sunt omnis id qui laudantium dolor et. Aut temporibus minus consectetur qui dolores architecto dicta.",
-            "rating": 3,
-            "created_at": "2022-08-20"
-          },
-          {
-            "id": 3,
-            "name": "Marvin McKinney",
-            "image": "https://george-fx.github.io/manero/assets/users/03.jpg",
-            "comment": "Et illum omnis est totam asperiores aliquid et. Ipsum unde labore quibusdam. Nesciunt facilis fugiat aut sapiente expedita perspiciatis. Corrupti ex eum id voluptatem est libero.",
-            "rating": 3,
-            "created_at": "2022-08-20"
-          },
-          {
-            "id": 4,
-            "name": "Jacob Jones",
-            "image": "https://george-fx.github.io/manero/assets/users/04.jpg",
-            "comment": "Et illum omnis est totam asperiores aliquid et. Ipsum unde labore quibusdam. Nesciunt facilis fugiat aut sapiente expedita perspiciatis. Corrupti ex eum id voluptatem est libero.",
-            "rating": 3,
-            "created_at": "2022-08-20"
-          },
-          {
-            "id": 5,
-            "name": "Annette Black",
-            "image": "https://george-fx.github.io/manero/assets/users/05.jpg",
-            "comment": "Et illum omnis est totam asperiores aliquid et. Ipsum unde labore quibusdam. Nesciunt facilis fugiat aut sapiente expedita perspiciatis. Corrupti ex eum id voluptatem est libero.",
-            "rating": 3,
-            "created_at": "2022-08-20"
-          },
-          {
-            "id": 6,
-            "name": "Jenny Wilson",
-            "image": "https://george-fx.github.io/manero/assets/users/06.jpg",
-            "comment": "Et illum omnis est totam asperiores aliquid et. Ipsum unde labore quibusdam. Nesciunt facilis fugiat aut sapiente expedita perspiciatis. Corrupti ex eum id voluptatem est libero.",
-            "rating": 3,
-            "created_at": "2022-08-20"
-          }
-        ]
       },
       {
         "id": "7",
@@ -433,56 +133,6 @@
         "is_bestseller": true,
         "is_sale": false,
         "is_featured": false,
-        "reviews": [
-          {
-            "id": 1,
-            "name": "Cameron Williamson",
-            "image": "https://george-fx.github.io/manero/assets/users/01.jpg",
-            "comment": "Vel provident distinctio consequatur. Totam aut enim ea eligendi maxime. Quia perspiciatis in quia expedita beatae. Cupiditate provident tempore illum sunt sint ea. Enim quisquam in cum quibusdam.",
-            "rating": 3,
-            "created_at": "2022-08-20"
-          },
-          {
-            "id": 2,
-            "name": "Theresa Webb",
-            "image": "https://george-fx.github.io/manero/assets/users/02.jpg",
-            "comment": "Aliquam laboriosam voluptates et dignissimos veritatis. Ut aut distinctio ipsam ea voluptatem. Sunt omnis id qui laudantium dolor et. Aut temporibus minus consectetur qui dolores architecto dicta.",
-            "rating": 3,
-            "created_at": "2022-08-20"
-          },
-          {
-            "id": 3,
-            "name": "Marvin McKinney",
-            "image": "https://george-fx.github.io/manero/assets/users/03.jpg",
-            "comment": "Et illum omnis est totam asperiores aliquid et. Ipsum unde labore quibusdam. Nesciunt facilis fugiat aut sapiente expedita perspiciatis. Corrupti ex eum id voluptatem est libero.",
-            "rating": 3,
-            "created_at": "2022-08-20"
-          },
-          {
-            "id": 4,
-            "name": "Jacob Jones",
-            "image": "https://george-fx.github.io/manero/assets/users/04.jpg",
-            "comment": "Et illum omnis est totam asperiores aliquid et. Ipsum unde labore quibusdam. Nesciunt facilis fugiat aut sapiente expedita perspiciatis. Corrupti ex eum id voluptatem est libero.",
-            "rating": 3,
-            "created_at": "2022-08-20"
-          },
-          {
-            "id": 5,
-            "name": "Annette Black",
-            "image": "https://george-fx.github.io/manero/assets/users/05.jpg",
-            "comment": "Et illum omnis est totam asperiores aliquid et. Ipsum unde labore quibusdam. Nesciunt facilis fugiat aut sapiente expedita perspiciatis. Corrupti ex eum id voluptatem est libero.",
-            "rating": 3,
-            "created_at": "2022-08-20"
-          },
-          {
-            "id": 6,
-            "name": "Jenny Wilson",
-            "image": "https://george-fx.github.io/manero/assets/users/06.jpg",
-            "comment": "Et illum omnis est totam asperiores aliquid et. Ipsum unde labore quibusdam. Nesciunt facilis fugiat aut sapiente expedita perspiciatis. Corrupti ex eum id voluptatem est libero.",
-            "rating": 3,
-            "created_at": "2022-08-20"
-          }
-        ]
       },
       {
         "id": "8",
@@ -502,56 +152,6 @@
         "is_bestseller": false,
         "is_sale": false,
         "is_featured": true,
-        "reviews": [
-          {
-            "id": 1,
-            "name": "Cameron Williamson",
-            "image": "https://george-fx.github.io/manero/assets/users/01.jpg",
-            "comment": "Vel provident distinctio consequatur. Totam aut enim ea eligendi maxime. Quia perspiciatis in quia expedita beatae. Cupiditate provident tempore illum sunt sint ea. Enim quisquam in cum quibusdam.",
-            "rating": 3,
-            "created_at": "2022-08-20"
-          },
-          {
-            "id": 2,
-            "name": "Theresa Webb",
-            "image": "https://george-fx.github.io/manero/assets/users/02.jpg",
-            "comment": "Aliquam laboriosam voluptates et dignissimos veritatis. Ut aut distinctio ipsam ea voluptatem. Sunt omnis id qui laudantium dolor et. Aut temporibus minus consectetur qui dolores architecto dicta.",
-            "rating": 3,
-            "created_at": "2022-08-20"
-          },
-          {
-            "id": 3,
-            "name": "Marvin McKinney",
-            "image": "https://george-fx.github.io/manero/assets/users/03.jpg",
-            "comment": "Et illum omnis est totam asperiores aliquid et. Ipsum unde labore quibusdam. Nesciunt facilis fugiat aut sapiente expedita perspiciatis. Corrupti ex eum id voluptatem est libero.",
-            "rating": 3,
-            "created_at": "2022-08-20"
-          },
-          {
-            "id": 4,
-            "name": "Jacob Jones",
-            "image": "https://george-fx.github.io/manero/assets/users/04.jpg",
-            "comment": "Et illum omnis est totam asperiores aliquid et. Ipsum unde labore quibusdam. Nesciunt facilis fugiat aut sapiente expedita perspiciatis. Corrupti ex eum id voluptatem est libero.",
-            "rating": 3,
-            "created_at": "2022-08-20"
-          },
-          {
-            "id": 5,
-            "name": "Annette Black",
-            "image": "https://george-fx.github.io/manero/assets/users/05.jpg",
-            "comment": "Et illum omnis est totam asperiores aliquid et. Ipsum unde labore quibusdam. Nesciunt facilis fugiat aut sapiente expedita perspiciatis. Corrupti ex eum id voluptatem est libero.",
-            "rating": 3,
-            "created_at": "2022-08-20"
-          },
-          {
-            "id": 6,
-            "name": "Jenny Wilson",
-            "image": "https://george-fx.github.io/manero/assets/users/06.jpg",
-            "comment": "Et illum omnis est totam asperiores aliquid et. Ipsum unde labore quibusdam. Nesciunt facilis fugiat aut sapiente expedita perspiciatis. Corrupti ex eum id voluptatem est libero.",
-            "rating": 3,
-            "created_at": "2022-08-20"
-          }
-        ]
       }
     ],
   }
