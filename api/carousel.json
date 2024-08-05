@@ -2,17 +2,17 @@
     "carousel": [
         {
             "id": 1,
-            "image": "https://george-fx.github.io/manero/assets/carousel/01.jpg",
+            "image": "https://george-fx.github.io/manero/assets/carousel/02.jpg",
             "promotion": "50% off"
         },
         {
             "id": 2,
-            "image": "https://george-fx.github.io/manero/assets/carousel/01.jpg",
+            "image": "https://george-fx.github.io/manero/assets/carousel/02.jpg",
             "promotion": "50% off"
         },
         {
             "id": 3,
-            "image": "https://george-fx.github.io/manero/assets/carousel/01.jpg",
+            "image": "https://george-fx.github.io/manero/assets/carousel/02.jpg",
             "promotion": "50% off"
         }
     ]
