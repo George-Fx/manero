@@ -2,7 +2,7 @@
     "categories": [
         {
             "id": 1,
-            "name": "Athletic Shoes",
+            "name": "Dresses",
             "image": "https://george-fx.github.io/manero/assets/categories/01.jpg",
             "audience": [
                 "Men",
@@ -11,7 +11,7 @@
         },
         {
             "id": 2,
-            "name": "Urban Shoes",
+            "name": "Pants",
             "image": "https://george-fx.github.io/manero/assets/categories/02.jpg",
             "audience": [
                 "Men",
@@ -20,7 +20,7 @@
         },
         {
             "id": 3,
-            "name": "Specialty Shoes",
+            "name": "Accessories",
             "image": "https://george-fx.github.io/manero/assets/categories/03.jpg",
             "audience": [
                 "Men"
@@ -28,7 +28,7 @@
         },
         {
             "id": 4,
-            "name": "Outdoor Shoes",
+            "name": "Shoes",
             "image": "https://george-fx.github.io/manero/assets/categories/04.jpg",
             "audience": [
                 "Men"
@@ -36,7 +36,7 @@
         },
         {
             "id": 5,
-            "name": "Formal Shoes",
+            "name": "T-shirts",
             "image": "https://george-fx.github.io/manero/assets/categories/05.jpg",
             "audience": [
                 "Men",
