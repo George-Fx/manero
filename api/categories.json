@@ -3,7 +3,7 @@
         {
             "id": 1,
             "name": "Athletic Shoes",
-            "image": "https://george-fx.github.io/manero/assets/categories/01.png",
+            "image": "https://george-fx.github.io/manero/assets/categories/01.jpg",
             "audience": [
                 "Men",
                 "Women"
@@ -12,7 +12,7 @@
         {
             "id": 2,
             "name": "Urban Shoes",
-            "image": "https://george-fx.github.io/manero/assets/categories/02.png",
+            "image": "https://george-fx.github.io/manero/assets/categories/02.jpg",
             "audience": [
                 "Men",
                 "Women"
@@ -21,7 +21,7 @@
         {
             "id": 3,
             "name": "Specialty Shoes",
-            "image": "https://george-fx.github.io/manero/assets/categories/03.png",
+            "image": "https://george-fx.github.io/manero/assets/categories/03.jpg",
             "audience": [
                 "Men"
             ]
@@ -29,7 +29,7 @@
         {
             "id": 4,
             "name": "Outdoor Shoes",
-            "image": "https://george-fx.github.io/manero/assets/categories/04.png",
+            "image": "https://george-fx.github.io/manero/assets/categories/04.jpg",
             "audience": [
                 "Men"
             ]
@@ -37,7 +37,7 @@
         {
             "id": 5,
             "name": "Formal Shoes",
-            "image": "https://george-fx.github.io/manero/assets/categories/05.png",
+            "image": "https://george-fx.github.io/manero/assets/categories/05.jpg",
             "audience": [
                 "Men",
                 "Women",
