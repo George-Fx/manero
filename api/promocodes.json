@@ -2,21 +2,21 @@
     "promocodes": [
         {
             "id": 1,
-            "code": "Pedal Pulse Cycles",
+            "code": "Acme Co.",
             "image": "https://george-fx.github.io/manero/assets/promocodes/01.jpg",
             "discount": 50,
             "expiry": "Jan 24, 2025"
         },
         {
             "id": 2,
-            "code": "Velocity Vibes Bikes",
+            "code": "Abstergo Ltd.",
             "image": "https://george-fx.github.io/manero/assets/promocodes/02.jpg",
             "discount": 30,
             "expiry": "Dec 27, 2024"
         },
         {
             "id": 3,
-            "code": "Spoke & Wheel",
+            "code": "Barone LLC.",
             "image": "https://george-fx.github.io/manero/assets/promocodes/03.jpg",
             "discount": 15,
             "expiry": "Nov 22, 2024"
