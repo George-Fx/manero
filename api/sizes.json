@@ -1,0 +1,29 @@
+{
+    "colors": [
+        {
+            "id": 1,
+            "name": "Pastel Red",
+            "code": "#FF6262"
+        },
+        {
+            "id": 2,
+            "name": "Maya Blue",
+            "code": "#63C7FF"
+        },
+        {
+            "id": 3,
+            "name": "Champagne",
+            "code": "#F8E7CD"
+        },
+        {
+            "id": 4,
+            "name": "Dark Byzantine Blue",
+            "code": "#323858"
+        },
+        {
+            "id": 5,
+            "name": "Smoky Black",
+            "code": "#111111"
+        }
+    ]
+}
