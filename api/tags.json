@@ -19,6 +19,38 @@
         {
             "id": 5,
             "name": "unisex"
+        },
+        {
+            "id": 6,
+            "name": "sport"
+        },
+        {
+            "id": 7,
+            "name": "dress"
+        },
+        {
+            "id": 8,
+            "name": "pants"
+        },
+        {
+            "id": 9,
+            "name": "t-shirt"
+        },
+        {
+            "id": 10,
+            "name": "hat"
+        },
+        {
+            "id": 11,
+            "name": "bag"
+        },
+        {
+            "id": 12,
+            "name": "shoes"
+        },
+        {
+            "id": 13,
+            "name": "polo"
         }
     ]
 }
