@@ -106,7 +106,7 @@
       "is_bestseller": false,
       "is_sale": true,
       "is_featured": true,
-      "isNew": true,
+      "isNew": false,
       "isTop": true
     },
     {
@@ -164,7 +164,7 @@
       "is_sale": true,
       "is_featured": false,
       "isNew": true,
-      "isTop": true
+      "isTop": false
     },
     {
       "id": "4",
@@ -219,7 +219,7 @@
       "is_bestseller": false,
       "is_sale": false,
       "is_featured": true,
-      "isNew": true,
+      "isNew": false,
       "isTop": true
     },
     {
@@ -277,7 +277,7 @@
       "is_sale": true,
       "is_featured": false,
       "isNew": true,
-      "isTop": true
+      "isTop": false
     },
     {
       "id": "6",
@@ -332,7 +332,7 @@
       "is_bestseller": false,
       "is_sale": false,
       "is_featured": true,
-      "isNew": true,
+      "isNew": false,
       "isTop": true
     },
     {
@@ -389,7 +389,7 @@
       "is_sale": false,
       "is_featured": false,
       "isNew": true,
-      "isTop": true
+      "isTop": false
     },
     {
       "id": "8",
@@ -444,7 +444,7 @@
       "is_bestseller": false,
       "is_sale": false,
       "is_featured": true,
-      "isNew": true,
+      "isNew": false,
       "isTop": true
     }
   ]
