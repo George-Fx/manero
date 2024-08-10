@@ -14,11 +14,31 @@
         "XXL"
       ],
       "colors": [
-        "pastel red",
-        "maya blue",
-        "champagne",
-        "dark byzantine blue",
-        "smoky black"
+        {
+          "id": 1,
+          "name": "pastel red",
+          "code": "#FF6262"
+        },
+        {
+          "id": 2,
+          "name": "maya blue",
+          "code": "#63C7FF"
+        },
+        {
+          "id": 3,
+          "name": "champagne",
+          "code": "#F8E7CD"
+        },
+        {
+          "id": 4,
+          "name": "dark byzantine blue",
+          "code": "#F8E7CD"
+        },
+        {
+          "id": 5,
+          "name": "smoky black",
+          "code": "#F8E7CD"
+        }  
       ],
       "categories": [
         "Men"
