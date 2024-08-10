@@ -40,6 +40,7 @@
           "code": "#111111"
         }
       ],
+      "category": ["shoes"],
       "tags": ["men, shoes"],
       "rating": "5",
       "images": [
@@ -92,10 +93,8 @@
           "code": "#111111"
         }
       ],
+      "category": ["pants"],
       "tags": ["men"],
-      "categories": [
-        "Sport"
-      ],
       "rating": "5",
       "images": [
         "https://george-fx.github.io/manero/resources/products/02.png",
@@ -149,10 +148,8 @@
           "code": "#111111"
         }
       ],
+      "category": ["accessories"],
       "tags": ["men, accessories"],
-      "categories": [
-        "Sport"
-      ],
       "rating": "5",
       "image": "https://dl.dropbox.com/s/252twzwl5hv96mi/03.png?dl=0",
       "images": [
@@ -206,9 +203,7 @@
           "code": "#111111"
         }
       ],
-      "categories": [
-        "Sport"
-      ],
+      "category": ["shoes"],
       "rating": "5",
       "image": "https://dl.dropbox.com/s/1jv4suu79ax10bs/04.png?dl=0",
       "images": [
@@ -263,9 +258,7 @@
           "code": "#111111"
         }
       ],
-      "categories": [
-        "Sport"
-      ],
+      "category": ["dresses"],
       "rating": "5",
       "image": "https://dl.dropbox.com/s/r4lhjbptsgr14jr/05.png?dl=0",
       "images": [
@@ -319,9 +312,7 @@
           "code": "#111111"
         }
       ],
-      "categories": [
-        "Sport"
-      ],
+      "category": ["dresses"],
       "rating": "5",
       "image": "https://dl.dropbox.com/s/w4p70q0h4780ljl/06.png?dl=0",
       "images": [
@@ -375,9 +366,7 @@
           "code": "#111111"
         }
       ],
-      "categories": [
-        "Sport"
-      ],
+      "category": ["t-shirts"],
       "promotion": "Take 50% off now!",
       "rating": "5",
       "image": "https://dl.dropbox.com/s/pa7egeq106uku51/07.png?dl=0",
@@ -431,9 +420,7 @@
           "code": "#111111"
         }
       ],
-      "categories": [
-        "Sport"
-      ],
+      "category": ["accessories"],
       "rating": "5",
       "image": "https://dl.dropbox.com/s/vvzqi4ufun5ino1/08.png?dl=0",
       "images": [
