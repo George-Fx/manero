@@ -49,6 +49,7 @@
         "https://george-fx.github.io/manero/resources/products/01.png",
         "https://george-fx.github.io/manero/resources/products/01.png"
       ],
+      "promotion": "Take 50% off now!",
       "isBestseller": true,
       "isFeatured": false
     },
@@ -158,6 +159,7 @@
         "https://george-fx.github.io/manero/resources/products/03.png",
         "https://george-fx.github.io/manero/resources/products/03.png"
       ],
+      "promotion": "Take 50% off now!",
       "isBestseller": true,
       "isFeatured": false,
       "isNew": true,
@@ -269,6 +271,7 @@
         "https://george-fx.github.io/manero/resources/products/05.png",
         "https://george-fx.github.io/manero/resources/products/05.png"
       ],
+      "promotion": "Take 50% off now!",
       "isBestseller": true,
       "isFeatured": false,
       "isNew": true,
@@ -372,6 +375,7 @@
       "categories": [
         "Sport"
       ],
+      "promotion": "Take 50% off now!",
       "rating": "5",
       "image": "https://dl.dropbox.com/s/pa7egeq106uku51/07.png?dl=0",
       "images": [
