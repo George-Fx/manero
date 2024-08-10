@@ -40,9 +40,7 @@
           "code": "#111111"
         }
       ],
-      "categories": [
-        "Men"
-      ],
+      "tags": ["men, shoes"],
       "rating": "5",
       "images": [
         "https://george-fx.github.io/manero/resources/products/01.png",
