@@ -50,7 +50,6 @@
         "https://george-fx.github.io/manero/resources/products/01.png"
       ],
       "isBestseller": true,
-      "isSale": false,
       "isFeatured": false
     },
     {
@@ -104,7 +103,6 @@
         "https://george-fx.github.io/manero/resources/products/02.png"
       ],
       "isBestseller": false,
-      "isSale": true,
       "isFeatured": true,
       "isNew": false,
       "isTop": true
@@ -161,7 +159,6 @@
         "https://george-fx.github.io/manero/resources/products/03.png"
       ],
       "isBestseller": true,
-      "isSale": true,
       "isFeatured": false,
       "isNew": true,
       "isTop": false
@@ -217,7 +214,6 @@
         "https://george-fx.github.io/manero/resources/products/04.png"
       ],
       "isBestseller": false,
-      "isSale": false,
       "isFeatured": true,
       "isNew": false,
       "isTop": true
@@ -274,7 +270,6 @@
         "https://george-fx.github.io/manero/resources/products/05.png"
       ],
       "isBestseller": true,
-      "isSale": true,
       "isFeatured": false,
       "isNew": true,
       "isTop": false
@@ -330,7 +325,6 @@
         "https://george-fx.github.io/manero/resources/products/06.png"
       ],
       "isBestseller": false,
-      "isSale": false,
       "isFeatured": true,
       "isNew": false,
       "isTop": true
@@ -386,7 +380,6 @@
         "https://george-fx.github.io/manero/resources/products/07.png"
       ],
       "isBestseller": true,
-      "isSale": false,
       "isFeatured": false,
       "isNew": true,
       "isTop": false
@@ -442,7 +435,6 @@
         "https://george-fx.github.io/manero/resources/products/08.png"
       ],
       "isBestseller": false,
-      "isSale": false,
       "isFeatured": true,
       "isNew": false,
       "isTop": true
