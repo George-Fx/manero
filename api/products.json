@@ -105,7 +105,9 @@
       ],
       "is_bestseller": false,
       "is_sale": true,
-      "is_featured": true
+      "is_featured": true,
+      "isNew": true,
+      "isTop": true
     },
     {
       "id": "3",
@@ -160,7 +162,9 @@
       ],
       "is_bestseller": true,
       "is_sale": true,
-      "is_featured": false
+      "is_featured": false,
+      "isNew": true,
+      "isTop": true
     },
     {
       "id": "4",
@@ -214,7 +218,9 @@
       ],
       "is_bestseller": false,
       "is_sale": false,
-      "is_featured": true
+      "is_featured": true,
+      "isNew": true,
+      "isTop": true
     },
     {
       "id": "5",
@@ -269,7 +275,9 @@
       ],
       "is_bestseller": true,
       "is_sale": true,
-      "is_featured": false
+      "is_featured": false,
+      "isNew": true,
+      "isTop": true
     },
     {
       "id": "6",
@@ -323,7 +331,9 @@
       ],
       "is_bestseller": false,
       "is_sale": false,
-      "is_featured": true
+      "is_featured": true,
+      "isNew": true,
+      "isTop": true
     },
     {
       "id": "7",
@@ -377,7 +387,9 @@
       ],
       "is_bestseller": true,
       "is_sale": false,
-      "is_featured": false
+      "is_featured": false,
+      "isNew": true,
+      "isTop": true
     },
     {
       "id": "8",
@@ -431,7 +443,9 @@
       ],
       "is_bestseller": false,
       "is_sale": false,
-      "is_featured": true
+      "is_featured": true,
+      "isNew": true,
+      "isTop": true
     }
   ]
 }
