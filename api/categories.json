@@ -5,7 +5,6 @@
             "name": "Dresses",
             "image": "https://george-fx.github.io/manero/assets/categories/01.jpg",
             "tags": [
-                "Men",
                 "Women"
             ]
         },
@@ -40,7 +39,6 @@
             "image": "https://george-fx.github.io/manero/assets/categories/05.jpg",
             "tags": [
                 "Men",
-                "Women",
                 "Kids"
             ]
         }
